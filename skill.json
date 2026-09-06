@@ -1,0 +1,15 @@
+{
+  "name": "genpark-distributed-task-idempotency-deduplication-skill",
+  "version": "1.0.0",
+  "description": "Distributed agent task idempotency key deduplication engine with rolling sliding window and replay-safe execution cache.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "idempotency",
+    "deduplication",
+    "replay-safe",
+    "cache",
+    "genpark",
+    "mcp"
+  ]
+}
